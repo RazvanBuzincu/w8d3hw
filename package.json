@@ -1,0 +1,17 @@
+{
+  "name": "homework_day3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Weapon.js",
+  "scripts": {
+    "start": "tsc && node ./dist/Weapon.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^9.0.8",
+    "uuid": "^9.0.1"
+  }
+}
